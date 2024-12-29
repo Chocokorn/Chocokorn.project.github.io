@@ -1,4 +1,4 @@
-# Project
+# Project 👾
 
 ## ꒰ Habibah Masae ꒱
 
@@ -25,7 +25,7 @@
     
 [Internet of Thing](https://github.com/Chocokorn/Arduino)
 
-  IoT Subject Box Button Functionality 
+  IoT Subject Box Button Functionality 🤖
   
   Tools used: Arduino, LED module
   - Display an image of the box and the text "Subject Box."
