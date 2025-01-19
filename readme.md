@@ -2,6 +2,8 @@
 
 ## ꒰ Habibah Masae ꒱
 
+[Profile](https://chocokorn.github.io/)
+
 ꒰ [Software Tester](https://github.com/Chocokorn/SofwareTester) ⚙️ ꒱
 
   Automated Program Testing
