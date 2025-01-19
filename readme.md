@@ -1,8 +1,7 @@
 # Project 👾
-![B.png](./bbii.jpg)
+![B.png](./bbii.png)
 ## ꒰ Habibah Masae ꒱
 
-[Profile](https://chocokorn.github.io/)
 
 ꒰ [Software Tester](https://github.com/Chocokorn/SofwareTester) ⚙️ ꒱
 
