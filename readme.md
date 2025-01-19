@@ -37,4 +37,4 @@
 
 ꒰ [Certificate](https://drive.google.com/drive/folders/1p-wXEv6Px4HH_D1NJfh_lYiN_jFp-iFO?usp=drive_link) 📂 ꒱
 
-<< [Back to Profile](readme.md) 
+<< [Back to Profile](README.md) 
