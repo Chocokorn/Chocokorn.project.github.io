@@ -1,5 +1,5 @@
 # Project 👾
-![B.png](./bbii.png)
+
 ## ꒰ Habibah Masae ꒱
 
 
